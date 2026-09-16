@@ -20,9 +20,6 @@
   {
     "listing": "/index.html",
     "items": [
-      "/essays/index.html",
-      "/research/index.html",
-      "/creative/index.html",
       "/essays/sample-essay.html",
       "/research/sample-project.html",
       "/creative/sample-piece.html"
