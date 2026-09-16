@@ -1,0 +1,15 @@
+---
+title: "Theatricality of Imperial Rome: Counterproductive Persecution of Free Speech"
+description: "Traces through Tacitus' Annals how Tiberius and Nero turned Roman politics into theater, and argues that persecuting free speech only raised its value."
+date: 2025-11-15
+categories: [Directed Studies, history, Tacitus]
+toc: false
+---
+
+*Directed Studies, Historical and Political Thought, Prof. Daniel Schillinger, Fall 2025*
+
+Traces through Tacitus' Annals how Tiberius and Nero turned Roman politics into theater, and argues that persecuting free speech only raised its value.
+
+[Download PDF](tacitus-theatricality-imperial-rome.pdf){.btn .btn-outline-primary}
+
+<iframe src="tacitus-theatricality-imperial-rome.pdf" width="100%" height="800" style="border:1px solid #D9DCE3;" title="Theatricality of Imperial Rome: Counterproductive Persecution of Free Speech"></iframe>

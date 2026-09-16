@@ -1,0 +1,15 @@
+---
+title: "Questioning Hegel: Master-Slave Dialectic in Motion"
+description: "Reconstructs Hegel's account of self-consciousness through recognition and asks why the master-slave dialectic stops where it does, and whether the slave's independence through labor contradicts it."
+date: 2026-02-15
+categories: [Directed Studies, philosophy, Hegel]
+toc: false
+---
+
+*Directed Studies, Philosophy, Prof. Tamar Gendler, Spring 2026*
+
+Reconstructs Hegel's account of self-consciousness through recognition and asks why the master-slave dialectic stops where it does, and whether the slave's independence through labor contradicts it.
+
+[Download PDF](hegel-master-slave-dialectic.pdf){.btn .btn-outline-primary}
+
+<iframe src="hegel-master-slave-dialectic.pdf" width="100%" height="800" style="border:1px solid #D9DCE3;" title="Questioning Hegel: Master-Slave Dialectic in Motion"></iframe>

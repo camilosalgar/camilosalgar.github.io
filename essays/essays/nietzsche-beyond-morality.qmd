@@ -1,0 +1,15 @@
+---
+title: "Beyond Morality: Nietzsche's Non-Prescriptive Project"
+description: "Argues that the Genealogy of Morals calls morality itself into question rather than prescribing master morality, reading Nietzsche's perspectivism as a method that ends in productive uncertainty."
+date: 2026-04-15
+categories: [Directed Studies, philosophy, Nietzsche]
+toc: false
+---
+
+*Directed Studies, Historical and Political Thought, Prof. Christopher McGowan, Spring 2026*
+
+Argues that the Genealogy of Morals calls morality itself into question rather than prescribing master morality, reading Nietzsche's perspectivism as a method that ends in productive uncertainty.
+
+[Download PDF](nietzsche-beyond-morality.pdf){.btn .btn-outline-primary}
+
+<iframe src="nietzsche-beyond-morality.pdf" width="100%" height="800" style="border:1px solid #D9DCE3;" title="Beyond Morality: Nietzsche's Non-Prescriptive Project"></iframe>

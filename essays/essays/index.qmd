@@ -1,0 +1,17 @@
+---
+title: "Academic Essays"
+description: "Papers and long-form essays, mostly in philosophy and literature."
+toc: false
+listing:
+  contents:
+    - "*.qmd"
+    - "!directed-studies.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: true
+  fields: [date, title, description, categories]
+---
+
+Most of these essays were written for Yale's Directed Studies program. [What is Directed Studies?](directed-studies.qmd)

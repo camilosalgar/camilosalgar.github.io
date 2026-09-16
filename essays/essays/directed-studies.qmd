@@ -1,0 +1,20 @@
+---
+title: "What is Directed Studies?"
+toc: false
+---
+
+Directed Studies (DS) is a selective, year-long program for first-year students at Yale College. It is an interdisciplinary introduction to influential texts in the Western and Near Eastern traditions, from the ancient Mediterranean to the twentieth century.
+
+The program consists of three integrated, full-year courses taken together:
+
+- **Literature**
+- **Philosophy**
+- **Historical and Political Thought**
+
+Each course meets weekly for one lecture and two small seminars led by Yale faculty. Roughly ten percent of each first-year class is admitted. Students read heavily and write analytic essays throughout the year, and the essays in this section come from that work.
+
+The fall term covers antiquity through the Middle Ages; the spring term runs from the Renaissance to the twentieth century.
+
+Learn more on the [Directed Studies website](https://directedstudies.yale.edu).
+
+[← Back to Academic Essays](index.qmd)

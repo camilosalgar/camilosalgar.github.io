@@ -1,0 +1,15 @@
+---
+title: "Aesthetic Transcendence: Tolstoy's Meaning Beyond Particularity"
+description: "Reads the thistle of Hadji Murat's prologue against the hero's death to show how Tolstoy's aesthetics carry the historical story beyond its particulars toward a meaning death cannot confine."
+date: 2026-03-15
+categories: [Directed Studies, literature, Tolstoy]
+toc: false
+---
+
+*Directed Studies, Literature, Prof. Serena Bassi, Spring 2026*
+
+Reads the thistle of Hadji Murat's prologue against the hero's death to show how Tolstoy's aesthetics carry the historical story beyond its particulars toward a meaning death cannot confine.
+
+[Download PDF](tolstoy-aesthetic-transcendence.pdf){.btn .btn-outline-primary}
+
+<iframe src="tolstoy-aesthetic-transcendence.pdf" width="100%" height="800" style="border:1px solid #D9DCE3;" title="Aesthetic Transcendence: Tolstoy's Meaning Beyond Particularity"></iframe>
