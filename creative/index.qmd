@@ -1,6 +1,6 @@
 ---
 title: "Creative Work"
-description: "Fiction, poetry, and other writing, in English and Spanish."
+description: "Media publications across opinion writing and public speaking."
 toc: false
 listing:
   contents: "*.qmd"
