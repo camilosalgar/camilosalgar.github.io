@@ -91,6 +91,13 @@
     "text": "Links\n\nPaper (PDF)\nCode on GitHub"
   },
   {
+    "objectID": "research/research/ai-human-like-conceptual-engineering.html",
+    "href": "research/research/ai-human-like-conceptual-engineering.html",
+    "title": "AI Should Not Be Called Human-Like: An Approach From Conceptual Engineering",
+    "section": "",
+    "text": "Exeter College Summer Programme, University of Oxford. Ethics of AI, Prof. Christoph Kelp and Prof. Mona Simion. August 2026.\nDebates about AI existential risk usually focus on human disempowerment. This paper proposes another kind of existential risk, the self-understanding problem: AI may change what it means to be human.\nUsing conceptual engineering, it argues two things. First, claims that AI has human-like features (consciousness, cognition, agency) cannot be justified by theories built through anthropocentric abstraction, since those theories can’t non-circularly ground the human standard they rely on. Second, likeness claims made by trusted experts can transfer understanding in both directions, so observations of AI begin to reshape our concept of the human. The paper recommends discussing AI’s features on their own terms and answers two objections.\nDownload PDF"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Camilo Salgar",
@@ -109,7 +116,14 @@
     "href": "research/index.html",
     "title": "Research Projects",
     "section": "",
-    "text": "Sample research project (replace me)\n\n\n\ndynamical systems\n\nmodeling\n\n\n\nWhat the project asks and what you found, in one sentence.\n\n\n\n\n\nAugust 2026\n\n\n\n\n\nNo matching items"
+    "text": "Asymmetric Complexity and the Limits of Engine Evaluation\n\n\n\nECSP\n\nmath modeling\n\ndynamical systems\n\nchess\n\n\n\nA dynamical-systems model showing where a position’s complexity can overturn a chess engine’s evaluation in human play.\n\n\n\n\n\nAugust 2026\n\n\n\n\n\n\n\nAI Should Not Be Called Human-Like: An Approach From Conceptual Engineering\n\n\n\nECSP\n\nAI ethics\n\nphilosophy of AI\n\nconceptual engineering\n\n\n\nArgues that calling AI ‘human-like’ is unjustified and risks reshaping how humans understand themselves.\n\n\n\n\n\nAugust 2026\n\n\n\n\n\n\n\nSample research project (replace me)\n\n\n\ndynamical systems\n\nmodeling\n\n\n\nWhat the project asks and what you found, in one sentence.\n\n\n\n\n\nAugust 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/research/chess-complexity-engine-evaluation.html",
+    "href": "research/research/chess-complexity-engine-evaluation.html",
+    "title": "Asymmetric Complexity and the Limits of Engine Evaluation",
+    "section": "",
+    "text": "Exeter College Summer Programme, University of Oxford. Mathematical Modelling, Prof. Tom Crawford. August 2026.\nChess engines report who is better under perfect play, but humans aren’t perfect players. This project models how engine evaluation E and asymmetric complexity C (how much harder a position is for one side than the other) evolve together.\nA linear model,\n\n\\begin{pmatrix}\\dot E\\\\ \\dot C\\end{pmatrix}=\\begin{pmatrix}\\alpha & \\beta\\\\ 0 & \\delta\\end{pmatrix}\\begin{pmatrix}E\\\\ C\\end{pmatrix},\\qquad \\alpha,\\beta&gt;0,\\ \\delta&lt;0,\n\nhas a saddle at the origin whose separatrix marks off regions where the engine favors one side but complexity carries the game to the other side’s win. A non-linear extension bounds evaluation and complexity, adds finite win states, and shows a saddle-node bifurcation as advantage begins to generate complexity. The result motivates a more human evaluation metric for broadcasting and chess education.\nMethods: linear and non-linear ODEs, phase-plane analysis, bifurcation analysis, Python (NumPy, SciPy, Matplotlib).\nDownload PDF"
   },
   {
     "objectID": "about.html",

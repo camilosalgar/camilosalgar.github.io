@@ -44,6 +44,59 @@
   <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>Asymmetric Complexity and the Limits of Engine Evaluation</title>
+  <link>https://camilosalgar.github.io/research/research/chess-complexity-engine-evaluation.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>Exeter College Summer Programme, University of Oxford. Mathematical Modelling, Prof.&nbsp;Tom Crawford. August 2026.</em></p>
+<p>Chess engines report who is better under perfect play, but humans aren’t perfect players. This project models how engine evaluation <img src="https://latex.codecogs.com/png.latex?E"> and asymmetric complexity <img src="https://latex.codecogs.com/png.latex?C"> (how much harder a position is for one side than the other) evolve together.</p>
+<p>A linear model,</p>
+<p><img src="https://latex.codecogs.com/png.latex?%0A%5Cbegin%7Bpmatrix%7D%5Cdot%20E%5C%5C%20%5Cdot%20C%5Cend%7Bpmatrix%7D=%5Cbegin%7Bpmatrix%7D%5Calpha%20&amp;%20%5Cbeta%5C%5C%200%20&amp;%20%5Cdelta%5Cend%7Bpmatrix%7D%5Cbegin%7Bpmatrix%7DE%5C%5C%20C%5Cend%7Bpmatrix%7D,%5Cqquad%20%5Calpha,%5Cbeta%3E0,%5C%20%5Cdelta%3C0,%0A"></p>
+<p>has a saddle at the origin whose separatrix marks off regions where the engine favors one side but complexity carries the game to the other side’s win. A non-linear extension bounds evaluation and complexity, adds finite win states, and shows a saddle-node bifurcation as advantage begins to generate complexity. The result motivates a more human evaluation metric for broadcasting and chess education.</p>
+<p><strong>Methods:</strong> linear and non-linear ODEs, phase-plane analysis, bifurcation analysis, Python (NumPy, SciPy, Matplotlib).</p>
+<p><a href="chess-complexity-engine-evaluation.pdf" class="btn btn-outline-primary">Download PDF</a></p>
+<iframe src="chess-complexity-engine-evaluation.pdf" width="100%" height="800" style="border:1px solid #D9DCE3;" title="Asymmetric Complexity paper">
+</iframe>
+
+
+
+ ]]></description>
+  <category>ECSP</category>
+  <category>math modeling</category>
+  <category>dynamical systems</category>
+  <category>chess</category>
+  <guid>https://camilosalgar.github.io/research/research/chess-complexity-engine-evaluation.html</guid>
+  <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>AI Should Not Be Called Human-Like: An Approach From Conceptual Engineering</title>
+  <link>https://camilosalgar.github.io/research/research/ai-human-like-conceptual-engineering.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>Exeter College Summer Programme, University of Oxford. Ethics of AI, Prof.&nbsp;Christoph Kelp and Prof.&nbsp;Mona Simion. August 2026.</em></p>
+<p>Debates about AI existential risk usually focus on human disempowerment. This paper proposes another kind of existential risk, the <em>self-understanding problem</em>: AI may change what it means to be human.</p>
+<p>Using conceptual engineering, it argues two things. First, claims that AI has human-like features (consciousness, cognition, agency) cannot be justified by theories built through anthropocentric abstraction, since those theories can’t non-circularly ground the human standard they rely on. Second, likeness claims made by trusted experts can transfer understanding in both directions, so observations of AI begin to reshape our concept of the human. The paper recommends discussing AI’s features on their own terms and answers two objections.</p>
+<p><a href="ai-human-like-conceptual-engineering.pdf" class="btn btn-outline-primary">Download PDF</a></p>
+<iframe src="ai-human-like-conceptual-engineering.pdf" width="100%" height="800" style="border:1px solid #D9DCE3;" title="AI Should Not Be Called Human-Like">
+</iframe>
+
+
+
+ ]]></description>
+  <category>ECSP</category>
+  <category>AI ethics</category>
+  <category>philosophy of AI</category>
+  <category>conceptual engineering</category>
+  <guid>https://camilosalgar.github.io/research/research/ai-human-like-conceptual-engineering.html</guid>
+  <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Sample research project (replace me)</title>
   <link>https://camilosalgar.github.io/research/sample-project.html</link>
   <description><![CDATA[ 
