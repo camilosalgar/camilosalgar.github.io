@@ -1,0 +1,13 @@
+---
+title: "Making Decisions Beyond the Chess Board"
+description: "A TEDx talk on why navigating uncertainty, not following a framework, is what decides outcomes."
+date: 2025-03-15
+categories: [TEDx, talk, chess, decision-making]
+toc: false
+---
+
+*TEDxColegio Nueva Granada, Bogotá, March 2025.*
+
+Every decision framework breaks down under complexity: consequences are unpredictable, intentions are self-serving, and rules are rigid. Drawing on chess, this talk argues that learning to navigate uncertainty is what actually decides outcomes.
+
+{{< video https://youtu.be/zqpsKwdqrn0 >}}

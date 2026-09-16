@@ -1,0 +1,11 @@
+---
+title: "Discurso de graduación"
+description: "Graduation speech, Colegio Nueva Granada (in Spanish)."
+date: 2025-06-15
+categories: [Substack, speech, español]
+toc: false
+---
+
+*Colegio Nueva Granada, Bogotá, 2025. In Spanish.*
+
+[Read on Substack](https://camilosalgar.substack.com/p/discurso-de-graduacion){.btn .btn-outline-primary}

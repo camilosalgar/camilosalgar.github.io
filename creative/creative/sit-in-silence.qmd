@@ -1,0 +1,13 @@
+---
+title: "Sit in Silence"
+description: "A Yale Daily News guest column arguing that compulsive distraction drowns out the questions boredom raises and blocks self-knowledge."
+date: 2025-10-15
+categories: [Yale Daily News, op-ed, attention]
+toc: false
+---
+
+*Guest column, Yale Daily News, October 2025.*
+
+We fill every idle moment with distraction, and in doing so we silence the questions that boredom would otherwise raise, questions that lead to self-knowledge.
+
+[Read the column on the Yale Daily News](https://yaledailynews.com/articles/salgar-sit-in-silence){.btn .btn-outline-primary}
