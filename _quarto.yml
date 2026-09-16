@@ -18,12 +18,17 @@ website:
       - text: "About Me"
         href: about.qmd
     right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/camilo-salgar/
+        aria-label: LinkedIn
       - icon: github
         href: https://github.com/camilosalgar
         aria-label: GitHub
   page-footer:
     left: "© 2026 Camilo Salgar"
     right: "Built with Quarto"
+
+date-format: "MMMM YYYY"
 
 format:
   html:

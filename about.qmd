@@ -3,15 +3,15 @@ title: "About Me"
 toc: false
 ---
 
-<!-- Replace this with your own bio. Add a photo by putting it in /images and uncommenting the line below. -->
-<!-- ![](images/photo.jpg){width=220 fig-align="left"} -->
+I'm Camilo Salgar Duarte, a student at Yale College pursuing a double major in Applied Mathematics and Philosophy (Class of 2029). I grew up in Bogotá, Colombia.
 
-I'm a student at Yale College studying applied mathematics and philosophy.
+My work sits where mathematical modeling meets philosophy. I'm drawn to questions in AI ethics, existential philosophy, and modernist literature, and to what happens when the tools we build start changing how we understand ourselves. I began at Yale in [Directed Studies](essays/directed-studies.qmd), and in summer 2026 I studied Mathematical Modelling and the Ethics of Artificial Intelligence at the University of Oxford's Exeter College Summer Programme.
 
-Write two or three short paragraphs here: what you study, what questions keep you up, and what you're working on now.
+Outside the classroom, I grade for Yale's Linear Algebra course, serve as Vice-President of Club Colombia at Yale, and sit on the board of the Yale College Chess Club. I've worked on FX and commodity hedging tools at Gestión de Riesgo and studied reinforcement learning at Quantil. I also play competitive chess and follow Independiente Santa Fe.
 
 ## Contact
 
-- Email: [you@example.com](mailto:you@example.com)
-- GitHub: [camilosalgar](https://github.com/camilosalgar)
-- CV: [PDF](cv.pdf) <!-- upload cv.pdf to the main folder -->
+- Email: [camilo.salgar@yale.edu](mailto:camilo.salgar@yale.edu)
+- LinkedIn: [camilo-salgar](https://www.linkedin.com/in/camilo-salgar/)
+- Substack: [camilosalgar.substack.com](https://camilosalgar.substack.com)
+- CV: [Download PDF](cv.pdf)

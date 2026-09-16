@@ -2,7 +2,12 @@
 title: ""
 toc: false
 listing:
-  contents: [essays, research, creative]
+  contents:
+    - "essays/*.qmd"
+    - "research/*.qmd"
+    - "creative/*.qmd"
+    - "!**/index.qmd"
+    - "!essays/directed-studies.qmd"
   sort: "date desc"
   type: default
   max-items: 5
@@ -15,7 +20,7 @@ Camilo Salgar
 :::
 
 ::: {.home-lede}
-Applied mathematics and philosophy at Yale. I write essays, build models, and make things with words.
+Applied mathematics and philosophy at Yale. I write about ethics, literature, and AI, and I build mathematical models of games people play.
 :::
 
 ## Recent work
