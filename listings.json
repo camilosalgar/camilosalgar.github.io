@@ -1,0 +1,31 @@
+[
+  {
+    "listing": "/essays/index.html",
+    "items": [
+      "/essays/sample-essay.html"
+    ]
+  },
+  {
+    "listing": "/creative/index.html",
+    "items": [
+      "/creative/sample-piece.html"
+    ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/sample-project.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/essays/index.html",
+      "/research/index.html",
+      "/creative/index.html",
+      "/essays/sample-essay.html",
+      "/research/sample-project.html",
+      "/creative/sample-piece.html"
+    ]
+  }
+]

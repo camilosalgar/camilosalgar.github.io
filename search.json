@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "essays/index.html",
+    "href": "essays/index.html",
+    "title": "Academic Essays",
+    "section": "",
+    "text": "Sample essay (replace me)\n\n\n\nphilosophy\n\nethics\n\n\n\nA one-sentence summary that appears in the list.\n\n\n\n\n\nSep 1, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "creative/index.html",
+    "href": "creative/index.html",
+    "title": "Creative Work",
+    "section": "",
+    "text": "Sample creative piece (replace me)\n\n\n\nfiction\n\nespañol\n\n\n\nA short story, poem, or other piece.\n\n\n\n\n\nJul 20, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a student at Yale College studying applied mathematics and philosophy.\nWrite two or three short paragraphs here: what you study, what questions keep you up, and what you’re working on now."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: you@example.com\nGitHub: camilosalgar\nCV: PDF"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "Sample research project (replace me)\n\n\n\ndynamical systems\n\nmodeling\n\n\n\nWhat the project asks and what you found, in one sentence.\n\n\n\n\n\nAug 15, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Camilo Salgar",
+    "section": "",
+    "text": "Camilo Salgar"
+  },
+  {
+    "objectID": "index.html#recent-work",
+    "href": "index.html#recent-work",
+    "title": "Camilo Salgar",
+    "section": "Recent work",
+    "text": "Recent work"
+  },
+  {
+    "objectID": "research/sample-project.html",
+    "href": "research/sample-project.html",
+    "title": "Sample research project (replace me)",
+    "section": "",
+    "text": "State the question in plain language."
+  },
+  {
+    "objectID": "research/sample-project.html#question",
+    "href": "research/sample-project.html#question",
+    "title": "Sample research project (replace me)",
+    "section": "",
+    "text": "State the question in plain language."
+  },
+  {
+    "objectID": "research/sample-project.html#model",
+    "href": "research/sample-project.html#model",
+    "title": "Sample research project (replace me)",
+    "section": "Model",
+    "text": "Model\nMath renders directly. Inline: x'(t) = f(x, t). Display:\n\n\\frac{dE}{dt} = \\alpha C(t) - \\beta E(t)"
+  },
+  {
+    "objectID": "research/sample-project.html#code",
+    "href": "research/sample-project.html#code",
+    "title": "Sample research project (replace me)",
+    "section": "Code",
+    "text": "Code\nimport numpy as np\nt = np.linspace(0, 10, 100)"
+  },
+  {
+    "objectID": "research/sample-project.html#results",
+    "href": "research/sample-project.html#results",
+    "title": "Sample research project (replace me)",
+    "section": "Results",
+    "text": "Results\nAdd figures by putting images in this folder: ![Caption](figure.png)"
+  },
+  {
+    "objectID": "research/sample-project.html#links",
+    "href": "research/sample-project.html#links",
+    "title": "Sample research project (replace me)",
+    "section": "Links",
+    "text": "Links\n\nPaper (PDF)\nCode on GitHub"
+  },
+  {
+    "objectID": "creative/sample-piece.html",
+    "href": "creative/sample-piece.html",
+    "title": "Sample creative piece (replace me)",
+    "section": "",
+    "text": "Your text goes here.\nFor poems, start each line with a vertical bar\nso the line breaks are kept\nexactly as you wrote them."
+  },
+  {
+    "objectID": "essays/sample-essay.html",
+    "href": "essays/sample-essay.html",
+    "title": "Sample essay (replace me)",
+    "section": "",
+    "text": "This is where your essay goes. Write in plain paragraphs."
+  },
+  {
+    "objectID": "essays/sample-essay.html#a-section-heading",
+    "href": "essays/sample-essay.html#a-section-heading",
+    "title": "Sample essay (replace me)",
+    "section": "A section heading",
+    "text": "A section heading\nUse italics and bold as usual. Footnotes work like this.1\n\nBlock quotes look like this.\n\nDownload the PDF version"
+  },
+  {
+    "objectID": "essays/sample-essay.html#footnotes",
+    "href": "essays/sample-essay.html#footnotes",
+    "title": "Sample essay (replace me)",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nAnd the footnote text goes here.↩︎"
+  }
+]
