@@ -1,0 +1,54 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Instrument+Sans:wght@400;500&display=swap');
+
+$paper: #FAFAF7;
+$ink: #1E2230;
+$muted: #5B6272;
+$accent: #3B4FA0;   // fountain-pen blue
+$rule: #D9DCE3;
+
+$body-bg: $paper;
+$body-color: $ink;
+$link-color: $accent;
+$font-family-serif: "Newsreader", Georgia, "Times New Roman", serif;
+$font-family-sans-serif: "Instrument Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+$font-family-base: $font-family-serif;
+$headings-font-family: $font-family-serif;
+$headings-font-weight: 600;
+$font-size-base: 1.125rem;
+$line-height-base: 1.65;
+$navbar-bg: $paper;
+$navbar-fg: $ink;
+$navbar-hl: $accent;
+$footer-bg: $paper;
+
+/*-- scss:rules --*/
+.navbar, .nav-footer, .listing-date, .listing-categories, .quarto-title-meta, .sidebar {
+  font-family: $font-family-sans-serif;
+  font-size: 0.95rem;
+}
+.navbar { border-bottom: 1px solid $rule; }
+.nav-footer { border-top: 1px solid $rule; color: $muted; }
+
+main.content { max-width: 42rem; }
+
+/* Home page: the name is the one bold moment */
+.home-name {
+  font-size: clamp(3rem, 9vw, 5.5rem);
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  margin: 2.5rem 0 1rem;
+}
+.home-lede { font-size: 1.35rem; color: $muted; max-width: 34rem; }
+
+/* Listings: quiet, text-first */
+.quarto-listing-default .quarto-post { border-bottom: 1px solid $rule; padding-bottom: 1.25rem; }
+.listing-title { font-weight: 600; }
+.listing-description { color: $muted; }
+.quarto-post .thumbnail img { border-radius: 2px; }
+
+blockquote { border-left: 2px solid $accent; color: $muted; font-style: italic; }
+
+a:focus-visible { outline: 2px solid $accent; outline-offset: 2px; }

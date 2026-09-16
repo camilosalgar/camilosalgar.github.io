@@ -1,0 +1,18 @@
+---
+title: "Sample essay (replace me)"
+description: "A one-sentence summary that appears in the list."
+date: 2026-09-01
+categories: [philosophy, ethics]
+---
+
+This is where your essay goes. Write in plain paragraphs.
+
+## A section heading
+
+Use *italics* and **bold** as usual. Footnotes work like this.[^1]
+
+> Block quotes look like this.
+
+[^1]: And the footnote text goes here.
+
+[Download the PDF version](sample-essay.pdf) <!-- optional: upload the PDF into this folder -->

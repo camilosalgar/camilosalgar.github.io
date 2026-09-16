@@ -1,0 +1,21 @@
+---
+title: ""
+toc: false
+listing:
+  contents: [essays, research, creative]
+  sort: "date desc"
+  type: default
+  max-items: 5
+  fields: [date, title, description, categories]
+  feed: true
+---
+
+::: {.home-name}
+Camilo Salgar
+:::
+
+::: {.home-lede}
+Applied mathematics and philosophy at Yale. I write essays, build models, and make things with words.
+:::
+
+## Recent work

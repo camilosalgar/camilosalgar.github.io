@@ -1,0 +1,8 @@
+---
+title: "Title"
+description: "One-sentence summary."
+date: 2026-01-01
+categories: [topic]
+---
+
+Text starts here.

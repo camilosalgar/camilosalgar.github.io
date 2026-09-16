@@ -1,0 +1,13 @@
+---
+title: "Sample creative piece (replace me)"
+description: "A short story, poem, or other piece."
+date: 2026-07-20
+categories: [fiction, español]
+toc: false
+---
+
+Your text goes here.
+
+| For poems, start each line with a vertical bar
+| so the line breaks are kept
+| exactly as you wrote them.

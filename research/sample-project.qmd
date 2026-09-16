@@ -1,0 +1,34 @@
+---
+title: "Sample research project (replace me)"
+description: "What the project asks and what you found, in one sentence."
+date: 2026-08-15
+categories: [dynamical systems, modeling]
+---
+
+## Question
+
+State the question in plain language.
+
+## Model
+
+Math renders directly. Inline: $x'(t) = f(x, t)$. Display:
+
+$$
+\frac{dE}{dt} = \alpha C(t) - \beta E(t)
+$$
+
+## Code
+
+```python
+import numpy as np
+t = np.linspace(0, 10, 100)
+```
+
+## Results
+
+Add figures by putting images in this folder: `![Caption](figure.png)`
+
+## Links
+
+- [Paper (PDF)](paper.pdf)
+- [Code on GitHub](https://github.com/camilosalgar)
