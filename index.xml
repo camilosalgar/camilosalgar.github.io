@@ -10,39 +10,7 @@
 <atom:link href="https://camilosalgar.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Essays, research, and creative work by Camilo Salgar.</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Tue, 01 Sep 2026 00:00:00 GMT</lastBuildDate>
-<item>
-  <title>Sample essay (replace me)</title>
-  <link>https://camilosalgar.github.io/essays/sample-essay.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>This is where your essay goes. Write in plain paragraphs.</p>
-<section id="a-section-heading" class="level2">
-<h2 class="anchored" data-anchor-id="a-section-heading">A section heading</h2>
-<p>Use <em>italics</em> and <strong>bold</strong> as usual. Footnotes work like this.<sup>1</sup></p>
-<blockquote class="blockquote">
-<p>Block quotes look like this.</p>
-</blockquote>
-<p><a href="sample-essay.pdf">Download the PDF version</a> <!-- optional: upload the PDF into this folder --></p>
-
-
-</section>
-
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>And the footnote text goes here.↩︎</p></li>
-</ol>
-</section></div> ]]></description>
-  <category>philosophy</category>
-  <category>ethics</category>
-  <guid>https://camilosalgar.github.io/essays/sample-essay.html</guid>
-  <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-</item>
+<lastBuildDate>Sat, 22 Aug 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Asymmetric Complexity and the Limits of Engine Evaluation</title>
   <link>https://camilosalgar.github.io/research/research/chess-complexity-engine-evaluation.html</link>

@@ -4,7 +4,6 @@
     "items": [
       "/essays/essays/directed-studies.html",
       "/essays/essays/index.html",
-      "/essays/sample-essay.html",
       "/essays/essays/nietzsche-beyond-morality.html",
       "/essays/essays/tolstoy-aesthetic-transcendence.html",
       "/essays/essays/hegel-master-slave-dialectic.html",
@@ -12,17 +11,9 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/creative/index.html",
     "items": [
-      "/essays/sample-essay.html",
-      "/research/research/chess-complexity-engine-evaluation.html",
-      "/research/research/ai-human-like-conceptual-engineering.html",
-      "/research/sample-project.html",
       "/creative/sample-piece.html",
-      "/essays/essays/nietzsche-beyond-morality.html",
-      "/essays/essays/tolstoy-aesthetic-transcendence.html",
-      "/essays/essays/hegel-master-slave-dialectic.html",
-      "/essays/essays/tacitus-theatricality-imperial-rome.html",
       "/creative/creative/sit-in-silence.html",
       "/creative/creative/discurso-de-graduacion.html",
       "/creative/creative/tedx-beyond-the-chess-board.html"
@@ -37,9 +28,16 @@
     ]
   },
   {
-    "listing": "/creative/index.html",
+    "listing": "/index.html",
     "items": [
+      "/research/research/chess-complexity-engine-evaluation.html",
+      "/research/research/ai-human-like-conceptual-engineering.html",
+      "/research/sample-project.html",
       "/creative/sample-piece.html",
+      "/essays/essays/nietzsche-beyond-morality.html",
+      "/essays/essays/tolstoy-aesthetic-transcendence.html",
+      "/essays/essays/hegel-master-slave-dialectic.html",
+      "/essays/essays/tacitus-theatricality-imperial-rome.html",
       "/creative/creative/sit-in-silence.html",
       "/creative/creative/discurso-de-graduacion.html",
       "/creative/creative/tedx-beyond-the-chess-board.html"
