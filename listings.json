@@ -12,9 +12,18 @@
     ]
   },
   {
-    "listing": "/creative/index.html",
+    "listing": "/index.html",
     "items": [
-      "/creative/sample-piece.html"
+      "/essays/sample-essay.html",
+      "/research/sample-project.html",
+      "/creative/sample-piece.html",
+      "/essays/essays/nietzsche-beyond-morality.html",
+      "/essays/essays/tolstoy-aesthetic-transcendence.html",
+      "/essays/essays/hegel-master-slave-dialectic.html",
+      "/essays/essays/tacitus-theatricality-imperial-rome.html",
+      "/creative/creative/sit-in-silence.html",
+      "/creative/creative/discurso-de-graduacion.html",
+      "/creative/creative/tedx-beyond-the-chess-board.html"
     ]
   },
   {
@@ -24,15 +33,12 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/creative/index.html",
     "items": [
-      "/essays/sample-essay.html",
-      "/research/sample-project.html",
       "/creative/sample-piece.html",
-      "/essays/essays/nietzsche-beyond-morality.html",
-      "/essays/essays/tolstoy-aesthetic-transcendence.html",
-      "/essays/essays/hegel-master-slave-dialectic.html",
-      "/essays/essays/tacitus-theatricality-imperial-rome.html"
+      "/creative/creative/sit-in-silence.html",
+      "/creative/creative/discurso-de-graduacion.html",
+      "/creative/creative/tedx-beyond-the-chess-board.html"
     ]
   },
   {
