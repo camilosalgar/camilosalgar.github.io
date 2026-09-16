@@ -1,6 +1,6 @@
 ---
 title: "Academic Essays"
-description: "Papers and long-form essays, mostly in philosophy."
+description: "Long-form essays, mostly from Directed Studies. "
 toc: false
 listing:
   contents: "*.qmd"
