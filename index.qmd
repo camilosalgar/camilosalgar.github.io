@@ -20,7 +20,7 @@ Camilo Salgar
 :::
 
 ::: {.home-lede}
-Applied mathematics and philosophy at Yale. I write about ethics, literature, and AI, and I build mathematical models of games people play.
+Applied mathematics and philosophy at Yale. I am interested in ethics, literature, and AI. Currently rethinking the world we live in.
 :::
 
 ## Recent work
