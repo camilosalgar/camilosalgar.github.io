@@ -1,0 +1,25 @@
+---
+title: "Asymmetric Complexity and the Limits of Engine Evaluation"
+description: "A dynamical-systems model showing where a position's complexity can overturn a chess engine's evaluation in human play."
+date: 2026-08-22
+categories: [ECSP, math modeling, dynamical systems, chess]
+toc: false
+---
+
+*Exeter College Summer Programme, University of Oxford. Mathematical Modelling, Prof. Tom Crawford. August 2026.*
+
+Chess engines report who is better under perfect play, but humans aren't perfect players. This project models how engine evaluation $E$ and asymmetric complexity $C$ (how much harder a position is for one side than the other) evolve together.
+
+A linear model,
+
+$$
+\begin{pmatrix}\dot E\\ \dot C\end{pmatrix}=\begin{pmatrix}\alpha & \beta\\ 0 & \delta\end{pmatrix}\begin{pmatrix}E\\ C\end{pmatrix},\qquad \alpha,\beta>0,\ \delta<0,
+$$
+
+has a saddle at the origin whose separatrix marks off regions where the engine favors one side but complexity carries the game to the other side's win. A non-linear extension bounds evaluation and complexity, adds finite win states, and shows a saddle-node bifurcation as advantage begins to generate complexity. The result motivates a more human evaluation metric for broadcasting and chess education.
+
+**Methods:** linear and non-linear ODEs, phase-plane analysis, bifurcation analysis, Python (NumPy, SciPy, Matplotlib).
+
+[Download PDF](chess-complexity-engine-evaluation.pdf){.btn .btn-outline-primary}
+
+<iframe src="chess-complexity-engine-evaluation.pdf" width="100%" height="800" style="border:1px solid #D9DCE3;" title="Asymmetric Complexity paper"></iframe>
