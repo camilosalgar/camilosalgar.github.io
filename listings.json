@@ -2,7 +2,13 @@
   {
     "listing": "/essays/index.html",
     "items": [
-      "/essays/sample-essay.html"
+      "/essays/essays/directed-studies.html",
+      "/essays/essays/index.html",
+      "/essays/sample-essay.html",
+      "/essays/essays/nietzsche-beyond-morality.html",
+      "/essays/essays/tolstoy-aesthetic-transcendence.html",
+      "/essays/essays/hegel-master-slave-dialectic.html",
+      "/essays/essays/tacitus-theatricality-imperial-rome.html"
     ]
   },
   {
@@ -22,7 +28,20 @@
     "items": [
       "/essays/sample-essay.html",
       "/research/sample-project.html",
-      "/creative/sample-piece.html"
+      "/creative/sample-piece.html",
+      "/essays/essays/nietzsche-beyond-morality.html",
+      "/essays/essays/tolstoy-aesthetic-transcendence.html",
+      "/essays/essays/hegel-master-slave-dialectic.html",
+      "/essays/essays/tacitus-theatricality-imperial-rome.html"
+    ]
+  },
+  {
+    "listing": "/essays/essays/index.html",
+    "items": [
+      "/essays/essays/nietzsche-beyond-morality.html",
+      "/essays/essays/tolstoy-aesthetic-transcendence.html",
+      "/essays/essays/hegel-master-slave-dialectic.html",
+      "/essays/essays/tacitus-theatricality-imperial-rome.html"
     ]
   }
 ]
