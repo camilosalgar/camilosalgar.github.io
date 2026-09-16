@@ -39,21 +39,7 @@
     "href": "creative/index.html",
     "title": "Creative Work",
     "section": "",
-    "text": "Sample creative piece (replace me)\n\n\n\nfiction\n\nespañol\n\n\n\nA short story, poem, or other piece.\n\n\n\n\n\nJuly 2026\n\n\n\n\n\n\n\nSit in Silence\n\n\n\nYale Daily News\n\nop-ed\n\nattention\n\n\n\nA Yale Daily News guest column arguing that compulsive distraction drowns out the questions boredom raises and blocks self-knowledge.\n\n\n\n\n\nOctober 2025\n\n\n\n\n\n\n\nDiscurso de graduación\n\n\n\nSubstack\n\nspeech\n\nespañol\n\n\n\nGraduation speech, Colegio Nueva Granada (in Spanish).\n\n\n\n\n\nJune 2025\n\n\n\n\n\n\n\nMaking Decisions Beyond the Chess Board\n\n\n\nTEDx\n\ntalk\n\nchess\n\ndecision-making\n\n\n\nA TEDx talk on why navigating uncertainty, not following a framework, is what decides outcomes.\n\n\n\n\n\nMarch 2025\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I’m Camilo Salgar Duarte, a student at Yale College pursuing a double major in Applied Mathematics and Philosophy (Class of 2029). I grew up in Bogotá, Colombia.\nMy work sits where mathematical modeling meets philosophy. I’m drawn to questions in AI ethics, existential philosophy, and modernist literature, and to what happens when the tools we build start changing how we understand ourselves. I began at Yale in Directed Studies, and in summer 2026 I studied Mathematical Modelling and the Ethics of Artificial Intelligence at the University of Oxford’s Exeter College Summer Programme.\nOutside the classroom, I grade for Yale’s Linear Algebra course, serve as Vice-President of Club Colombia at Yale, and sit on the board of the Yale College Chess Club. I’ve worked on FX and commodity hedging tools at Gestión de Riesgo and studied reinforcement learning at Quantil. I also play competitive chess and follow Independiente Santa Fe."
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About Me",
-    "section": "Contact",
-    "text": "Contact\n\nEmail: camilo.salgar@yale.edu\nLinkedIn: camilo-salgar\nSubstack: camilosalgar.substack.com\nCV: Download PDF"
+    "text": "Sit in Silence\n\n\n\nYale Daily News\n\nop-ed\n\nattention\n\n\n\nA Yale Daily News guest column arguing that compulsive distraction drowns out the questions boredom raises and blocks self-knowledge.\n\n\n\n\n\nOctober 2025\n\n\n\n\n\n\n\nDiscurso de graduación\n\n\n\nSubstack\n\nspeech\n\nespañol\n\n\n\nGraduation speech, Colegio Nueva Granada (in Spanish).\n\n\n\n\n\nJune 2025\n\n\n\n\n\n\n\nMaking Decisions Beyond the Chess Board\n\n\n\nTEDx\n\ntalk\n\nchess\n\ndecision-making\n\n\n\nA TEDx talk on why navigating uncertainty, not following a framework, is what decides outcomes.\n\n\n\n\n\nMarch 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/research/chess-complexity-engine-evaluation.html",
@@ -67,7 +53,7 @@
     "href": "research/index.html",
     "title": "Research Projects",
     "section": "",
-    "text": "Asymmetric Complexity and the Limits of Engine Evaluation\n\n\n\nECSP\n\nmath modeling\n\ndynamical systems\n\nchess\n\n\n\nA dynamical-systems model showing where a position’s complexity can overturn a chess engine’s evaluation in human play.\n\n\n\n\n\nAugust 2026\n\n\n\n\n\n\n\nAI Should Not Be Called Human-Like: An Approach From Conceptual Engineering\n\n\n\nECSP\n\nAI ethics\n\nphilosophy of AI\n\nconceptual engineering\n\n\n\nArgues that calling AI ‘human-like’ is unjustified and risks reshaping how humans understand themselves.\n\n\n\n\n\nAugust 2026\n\n\n\n\n\n\n\nSample research project (replace me)\n\n\n\ndynamical systems\n\nmodeling\n\n\n\nWhat the project asks and what you found, in one sentence.\n\n\n\n\n\nAugust 2026\n\n\n\n\n\nNo matching items"
+    "text": "Asymmetric Complexity and the Limits of Engine Evaluation\n\n\n\nECSP\n\nmath modeling\n\ndynamical systems\n\nchess\n\n\n\nA dynamical-systems model showing where a position’s complexity can overturn a chess engine’s evaluation in human play.\n\n\n\n\n\nAugust 2026\n\n\n\n\n\n\n\nAI Should Not Be Called Human-Like: An Approach From Conceptual Engineering\n\n\n\nECSP\n\nAI ethics\n\nphilosophy of AI\n\nconceptual engineering\n\n\n\nArgues that calling AI ‘human-like’ is unjustified and risks reshaping how humans understand themselves.\n\n\n\n\n\nAugust 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -91,53 +77,18 @@
     "text": "Exeter College Summer Programme, University of Oxford. Ethics of AI, Prof. Christoph Kelp and Prof. Mona Simion. August 2026.\nDebates about AI existential risk usually focus on human disempowerment. This paper proposes another kind of existential risk, the self-understanding problem: AI may change what it means to be human.\nUsing conceptual engineering, it argues two things. First, claims that AI has human-like features (consciousness, cognition, agency) cannot be justified by theories built through anthropocentric abstraction, since those theories can’t non-circularly ground the human standard they rely on. Second, likeness claims made by trusted experts can transfer understanding in both directions, so observations of AI begin to reshape our concept of the human. The paper recommends discussing AI’s features on their own terms and answers two objections.\nDownload PDF"
   },
   {
-    "objectID": "research/sample-project.html",
-    "href": "research/sample-project.html",
-    "title": "Sample research project (replace me)",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
     "section": "",
-    "text": "State the question in plain language."
+    "text": "I’m Camilo Salgar Duarte, a student at Yale College pursuing a double major in Applied Mathematics and Philosophy (Class of 2029). I grew up in Bogotá, Colombia.\nMy work sits where mathematical modeling meets philosophy. I’m drawn to questions in AI ethics, existential philosophy, and modernist literature, and to what happens when the tools we build start changing how we understand ourselves. I began at Yale in Directed Studies, and in summer 2026 I studied Mathematical Modelling and the Ethics of Artificial Intelligence at the University of Oxford’s Exeter College Summer Programme.\nOutside the classroom, I grade for Yale’s Linear Algebra course, serve as Vice-President of Club Colombia at Yale, and sit on the board of the Yale College Chess Club. I’ve worked on FX and commodity hedging tools at Gestión de Riesgo and studied reinforcement learning at Quantil. I also play competitive chess and follow Independiente Santa Fe."
   },
   {
-    "objectID": "research/sample-project.html#question",
-    "href": "research/sample-project.html#question",
-    "title": "Sample research project (replace me)",
-    "section": "",
-    "text": "State the question in plain language."
-  },
-  {
-    "objectID": "research/sample-project.html#model",
-    "href": "research/sample-project.html#model",
-    "title": "Sample research project (replace me)",
-    "section": "Model",
-    "text": "Model\nMath renders directly. Inline: x'(t) = f(x, t). Display:\n\n\\frac{dE}{dt} = \\alpha C(t) - \\beta E(t)"
-  },
-  {
-    "objectID": "research/sample-project.html#code",
-    "href": "research/sample-project.html#code",
-    "title": "Sample research project (replace me)",
-    "section": "Code",
-    "text": "Code\nimport numpy as np\nt = np.linspace(0, 10, 100)"
-  },
-  {
-    "objectID": "research/sample-project.html#results",
-    "href": "research/sample-project.html#results",
-    "title": "Sample research project (replace me)",
-    "section": "Results",
-    "text": "Results\nAdd figures by putting images in this folder: ![Caption](figure.png)"
-  },
-  {
-    "objectID": "research/sample-project.html#links",
-    "href": "research/sample-project.html#links",
-    "title": "Sample research project (replace me)",
-    "section": "Links",
-    "text": "Links\n\nPaper (PDF)\nCode on GitHub"
-  },
-  {
-    "objectID": "creative/sample-piece.html",
-    "href": "creative/sample-piece.html",
-    "title": "Sample creative piece (replace me)",
-    "section": "",
-    "text": "Your text goes here.\nFor poems, start each line with a vertical bar\nso the line breaks are kept\nexactly as you wrote them."
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: camilo.salgar@yale.edu\nLinkedIn: camilo-salgar\nSubstack: camilosalgar.substack.com\nCV: Download PDF"
   },
   {
     "objectID": "creative/creative/sit-in-silence.html",

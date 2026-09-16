@@ -13,7 +13,6 @@
   {
     "listing": "/creative/index.html",
     "items": [
-      "/creative/sample-piece.html",
       "/creative/creative/sit-in-silence.html",
       "/creative/creative/discurso-de-graduacion.html",
       "/creative/creative/tedx-beyond-the-chess-board.html"
@@ -23,8 +22,7 @@
     "listing": "/research/index.html",
     "items": [
       "/research/research/chess-complexity-engine-evaluation.html",
-      "/research/research/ai-human-like-conceptual-engineering.html",
-      "/research/sample-project.html"
+      "/research/research/ai-human-like-conceptual-engineering.html"
     ]
   },
   {
@@ -32,8 +30,6 @@
     "items": [
       "/research/research/chess-complexity-engine-evaluation.html",
       "/research/research/ai-human-like-conceptual-engineering.html",
-      "/research/sample-project.html",
-      "/creative/sample-piece.html",
       "/essays/essays/nietzsche-beyond-morality.html",
       "/essays/essays/tolstoy-aesthetic-transcendence.html",
       "/essays/essays/hegel-master-slave-dialectic.html",
