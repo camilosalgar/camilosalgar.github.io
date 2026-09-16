@@ -1,2 +1,3 @@
 # camilosalgar.github.io
-Camilo Salgar is a Yale student majoring in Applied Math and Philosophy. He is an international student from Bogotá, Colombia.
+Hi! I am Camilo Salgar, a Yale University sophomore studying Applied Math and Philosophy.
+Here you can find projects I have and currently am working on.
