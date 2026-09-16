@@ -1,6 +1,6 @@
 ---
 title: "Research Projects"
-description: "Models, code, and write-ups from ongoing and past research."
+description: "Modelling games and proposing philosophical arguments"
 toc: false
 listing:
   contents: "*.qmd"
