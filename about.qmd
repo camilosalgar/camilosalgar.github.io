@@ -14,4 +14,4 @@ Outside the classroom, I grade for Yale's Linear Algebra course, serve as Vice-P
 - Email: [camilo.salgar@yale.edu](mailto:camilo.salgar@yale.edu)
 - LinkedIn: [camilo-salgar](https://www.linkedin.com/in/camilo-salgar/)
 - Substack: [camilosalgar.substack.com](https://camilosalgar.substack.com)
-- CV: [Download PDF](cv.pdf)
+- CV: [Download PDF](CV.pdf)
