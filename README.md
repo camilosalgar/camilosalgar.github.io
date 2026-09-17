@@ -11,10 +11,6 @@ Personal website built with Quarto. Every commit to `main` rebuilds and publishe
 
 Images and PDFs: upload them into the same folder and link them with `![Caption](image.png)` or `[PDF](file.pdf)`.
 
-## Delete the samples
-
-Remove `essays/sample-essay.qmd`, `research/sample-project.qmd`, and `creative/sample-piece.qmd` once you've added real work.
-
 ## Edit pages
 
 - Bio: `about.qmd`
