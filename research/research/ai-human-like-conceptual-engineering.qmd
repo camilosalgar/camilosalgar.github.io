@@ -13,5 +13,6 @@ Debates about AI existential risk usually focus on human disempowerment. This pa
 Using conceptual engineering, it argues two things. First, claims that AI has human-like features (consciousness, cognition, agency) cannot be justified by theories built through anthropocentric abstraction, since those theories can't non-circularly ground the human standard they rely on. Second, likeness claims made by trusted experts can transfer understanding in both directions, so observations of AI begin to reshape our concept of the human. The paper recommends discussing AI's features on their own terms and answers two objections.
 
 [Download PDF](ai-human-like-conceptual-engineering.pdf){.btn .btn-outline-primary}
+Grade: First-class
 
 <iframe src="ai-human-like-conceptual-engineering.pdf" width="100%" height="800" style="border:1px solid #D9DCE3;" title="AI Should Not Be Called Human-Like"></iframe>
