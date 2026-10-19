@@ -1,24 +1,5 @@
 [
   {
-    "listing": "/essays/index.html",
-    "items": [
-      "/essays/essays/directed-studies.html",
-      "/essays/essays/index.html",
-      "/essays/essays/nietzsche-beyond-morality.html",
-      "/essays/essays/tolstoy-aesthetic-transcendence.html",
-      "/essays/essays/hegel-master-slave-dialectic.html",
-      "/essays/essays/tacitus-theatricality-imperial-rome.html"
-    ]
-  },
-  {
-    "listing": "/creative/index.html",
-    "items": [
-      "/creative/creative/sit-in-silence.html",
-      "/creative/creative/discurso-de-graduacion.html",
-      "/creative/creative/tedx-beyond-the-chess-board.html"
-    ]
-  },
-  {
     "listing": "/research/index.html",
     "items": [
       "/research/research/chess-complexity-engine-evaluation.html",
@@ -46,6 +27,25 @@
       "/essays/essays/tolstoy-aesthetic-transcendence.html",
       "/essays/essays/hegel-master-slave-dialectic.html",
       "/essays/essays/tacitus-theatricality-imperial-rome.html"
+    ]
+  },
+  {
+    "listing": "/essays/index.html",
+    "items": [
+      "/essays/essays/directed-studies.html",
+      "/essays/essays/index.html",
+      "/essays/essays/nietzsche-beyond-morality.html",
+      "/essays/essays/tolstoy-aesthetic-transcendence.html",
+      "/essays/essays/hegel-master-slave-dialectic.html",
+      "/essays/essays/tacitus-theatricality-imperial-rome.html"
+    ]
+  },
+  {
+    "listing": "/creative/index.html",
+    "items": [
+      "/creative/creative/sit-in-silence.html",
+      "/creative/creative/discurso-de-graduacion.html",
+      "/creative/creative/tedx-beyond-the-chess-board.html"
     ]
   }
 ]
