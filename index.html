@@ -30,31 +30,27 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/favicon.svg" rel="icon" type="image/svg+xml">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-9df4c60f0cc4107fb5bd46ab738fe5dc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-0c03926faabc2cd72b37167076e88991.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
+  "location": "sidebar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
+  "panel-placement": "start",
+  "type": "textbox",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -76,137 +72,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
+</head>
 
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-<style>html{ scroll-behavior: smooth; }</style>
-
-  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
-  <script>document.addEventListener("DOMContentLoaded", function () {
- var mathElements = document.getElementsByClassName("math");
- var macros = [];
- for (var i = 0; i < mathElements.length; i++) {
-  var texText = mathElements[i].firstChild;
-  if (mathElements[i].tagName == "SPAN") {
-   katex.render(texText.data, mathElements[i], {
-    displayMode: mathElements[i].classList.contains('display'),
-    throwOnError: false,
-    macros: macros,
-    fleqn: false
-   });
-}}});
-  </script>
-  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="alternate" type="application/rss+xml" title="Camilo Salgar" href="index.xml" data-external="1"></head>
-
-<body class="nav-fixed fullcontent quarto-light">
+<body class="fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
-      <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Camilo Salgar</span>
-    </a>
-  </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-  <span class="navbar-toggler-icon"></span>
-</button>
-          <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./essays/index.html"> 
-<span class="menu-text">Academic Essays</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./research/index.html"> 
-<span class="menu-text">Research Projects</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./creative/index.html"> 
-<span class="menu-text">Creative Work</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About Me</span></a>
-  </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/camilo-salgar/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/camilosalgar"> <i class="bi bi-github" role="img" aria-label="GitHub">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-</ul>
-          </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
-</div>
-      </div> <!-- /container-fluid -->
-    </nav>
-</header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
@@ -216,167 +90,61 @@ window.Quarto = {
 
 
 
-<div class="home-name">
+<div class="name">
 <p>Camilo Salgar</p>
 </div>
-<div class="home-lede">
-<p>Applied mathematics and Philosophy at Yale. I am skeptically optimistic about the future artificial intelligence has in store for Latin America and the world.</p>
+<div class="intro">
+<p>Hi, I’m Camilo, an international student at Yale pursuing a double major in Applied Mathematics and Philosophy. I grew up in Bogotá, Colombia.</p>
 </div>
-<section id="recent-work" class="level2">
-<h2 class="anchored" data-anchor-id="recent-work">Recent work</h2>
-
+<section id="writing" class="level2">
+<h2 data-anchor-id="writing">Writing</h2>
+<ul class="works">
+<li>
+<span class="d">October 2026</span><span><a href="https://yale-herald.com/2026/10/04/the-student-is-at-risk/">The Student is at Risk</a><span class="v">Yale Herald</span></span>
+</li>
+<li>
+<span class="d">April 2026</span><span><a href="essays/nietzsche-beyond-morality.pdf">Beyond Morality: Nietzsche’s Non-Prescriptive Project</a><span class="v">Directed Studies, Yale</span></span>
+</li>
+<li>
+<span class="d">March 2026</span><span><a href="essays/tolstoy-aesthetic-transcendence.pdf">Aesthetic Transcendence: Tolstoy’s Meaning Beyond Particularity</a><span class="v">Directed Studies, Yale</span></span>
+</li>
+<li>
+<span class="d">February 2026</span><span><a href="essays/hegel-master-slave-dialectic.pdf">Questioning Hegel: Master-Slave Dialectic in Motion</a><span class="v">Directed Studies, Yale</span></span>
+</li>
+<li>
+<span class="d">November 2025</span><span><a href="essays/tacitus-theatricality-imperial-rome.pdf">Theatricality of Imperial Rome: Counterproductive Persecution of Free Speech</a><span class="v">Directed Studies, Yale</span></span>
+</li>
+<li>
+<span class="d">October 2025</span><span><a href="https://yaledailynews.com/articles/salgar-sit-in-silence">Sit in Silence</a><span class="v"><a href="https://yaledailynews.com/author/camilo-salgar">Yale Daily News</a></span></span>
+</li>
+<li>
+<span class="d">June 2025</span><span><a href="https://camilosalgar.substack.com/p/discurso-de-graduacion">Discurso de graduación</a><span class="v">Substack</span></span>
+</li>
+</ul>
+</section>
+<section id="projects" class="level2">
+<h2 data-anchor-id="projects">Projects</h2>
+<ul class="works">
+<li>
+<span class="d">August 2026</span><span><a href="research/chess-complexity-engine-evaluation.pdf">Asymmetric Complexity and the Limits of Engine Evaluation</a><span class="v">Exeter College Summer Programme, Oxford</span></span>
+</li>
+<li>
+<span class="d">August 2026</span><span><a href="research/ai-human-like-conceptual-engineering.pdf">AI Should Not Be Called Human-Like: An Approach From Conceptual Engineering</a><span class="v">Exeter College Summer Programme, Oxford</span></span>
+</li>
+<li>
+<span class="d">March 2025</span><span><a href="https://youtu.be/zqpsKwdqrn0">Making Decisions Beyond the Chess Board</a><span class="v">TEDxColegio Nueva Granada</span></span>
+</li>
+</ul>
+<div class="contact">
+<p><a href="mailto:camilo.salgar@yale.edu">camilo.salgar@yale.edu</a> <a href="https://www.linkedin.com/in/camilo-salgar/">LinkedIn</a> <a href="https://camilosalgar.substack.com">Substack</a></p>
+</div>
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="RUNTUCUyQ21hdGglMjBtb2RlbGluZyUyQ2R5bmFtaWNhbCUyMHN5c3RlbXMlMkNjaGVzcw==" data-listing-date-sort="1787356800000" data-listing-file-modified-sort="1792429285568" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="149">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./research/research/chess-complexity-engine-evaluation.html" class="no-external">Asymmetric Complexity and the Limits of Engine Evaluation</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RUNTUA=='); return false;">ECSP</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bWF0aCUyMG1vZGVsaW5n'); return false;">math modeling</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZHluYW1pY2FsJTIwc3lzdGVtcw=='); return false;">dynamical systems</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y2hlc3M='); return false;">chess</div>
-
-</div>
-<div class="delink listing-description"><a href="./research/research/chess-complexity-engine-evaluation.html" class="no-external">
-<p>A dynamical-systems model showing where a position’s complexity can overturn a chess engine’s evaluation in human play.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./research/research/chess-complexity-engine-evaluation.html" class="no-external">
-<div class="listing-date">
-August 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="RUNTUCUyQ0FJJTIwZXRoaWNzJTJDcGhpbG9zb3BoeSUyMG9mJTIwQUklMkNjb25jZXB0dWFsJTIwZW5naW5lZXJpbmc=" data-listing-date-sort="1786752000000" data-listing-file-modified-sort="1792429285560" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="139">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./research/research/ai-human-like-conceptual-engineering.html" class="no-external">AI Should Not Be Called Human-Like: An Approach From Conceptual Engineering</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RUNTUA=='); return false;">ECSP</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QUklMjBldGhpY3M='); return false;">AI ethics</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGhpbG9zb3BoeSUyMG9mJTIwQUk='); return false;">philosophy of AI</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29uY2VwdHVhbCUyMGVuZ2luZWVyaW5n'); return false;">conceptual engineering</div>
-
-</div>
-<div class="delink listing-description"><a href="./research/research/ai-human-like-conceptual-engineering.html" class="no-external">
-<p>Argues that calling AI ‘human-like’ is unjustified and risks reshaping how humans understand themselves.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./research/research/ai-human-like-conceptual-engineering.html" class="no-external">
-<div class="listing-date">
-August 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="RGlyZWN0ZWQlMjBTdHVkaWVzJTJDcGhpbG9zb3BoeSUyQ05pZXR6c2NoZQ==" data-listing-date-sort="1776211200000" data-listing-file-modified-sort="1792429285557" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="50">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./essays/essays/nietzsche-beyond-morality.html" class="no-external">Beyond Morality: Nietzsche’s Non-Prescriptive Project</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGlyZWN0ZWQlMjBTdHVkaWVz'); return false;">Directed Studies</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGhpbG9zb3BoeQ=='); return false;">philosophy</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TmlldHpzY2hl'); return false;">Nietzsche</div>
-
-</div>
-<div class="delink listing-description"><a href="./essays/essays/nietzsche-beyond-morality.html" class="no-external">
-<p>Argues that the Genealogy of Morals calls morality itself into question rather than prescribing master morality, reading Nietzsche’s perspectivism as a method that ends in productive uncertainty.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./essays/essays/nietzsche-beyond-morality.html" class="no-external">
-<div class="listing-date">
-April 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="RGlyZWN0ZWQlMjBTdHVkaWVzJTJDbGl0ZXJhdHVyZSUyQ1RvbHN0b3k=" data-listing-date-sort="1773532800000" data-listing-file-modified-sort="1792429285558" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="50">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./essays/essays/tolstoy-aesthetic-transcendence.html" class="no-external">Aesthetic Transcendence: Tolstoy’s Meaning Beyond Particularity</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGlyZWN0ZWQlMjBTdHVkaWVz'); return false;">Directed Studies</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('bGl0ZXJhdHVyZQ=='); return false;">literature</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VG9sc3RveQ=='); return false;">Tolstoy</div>
-
-</div>
-<div class="delink listing-description"><a href="./essays/essays/tolstoy-aesthetic-transcendence.html" class="no-external">
-<p>Reads the thistle of Hadji Murat’s prologue against the hero’s death to show how Tolstoy’s aesthetics carry the historical story beyond its particulars toward a meaning death cannot confine.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./essays/essays/tolstoy-aesthetic-transcendence.html" class="no-external">
-<div class="listing-date">
-March 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="RGlyZWN0ZWQlMjBTdHVkaWVzJTJDcGhpbG9zb3BoeSUyQ0hlZ2Vs" data-listing-date-sort="1771113600000" data-listing-file-modified-sort="1792429285557" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="47">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./essays/essays/hegel-master-slave-dialectic.html" class="no-external">Questioning Hegel: Master-Slave Dialectic in Motion</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RGlyZWN0ZWQlMjBTdHVkaWVz'); return false;">Directed Studies</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cGhpbG9zb3BoeQ=='); return false;">philosophy</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SGVnZWw='); return false;">Hegel</div>
-
-</div>
-<div class="delink listing-description"><a href="./essays/essays/hegel-master-slave-dialectic.html" class="no-external">
-<p>Reconstructs Hegel’s account of self-consciousness through recognition and asks why the master-slave dialectic stops where it does, and whether the slave’s independence through labor contradicts it.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./essays/essays/hegel-master-slave-dialectic.html" class="no-external">
-<div class="listing-date">
-February 2026
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
@@ -769,22 +537,8 @@ February 2026
   });
   </script>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
-    <div class="nav-footer-left">
-<p>© 2026 Camilo Salgar</p>
-</div>   
-    <div class="nav-footer-center">
-      &nbsp;
-    </div>
-    <div class="nav-footer-right">
-<p>Built with Quarto</p>
-</div>
-  </div>
-</footer>
 
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
