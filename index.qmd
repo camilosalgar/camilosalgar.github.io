@@ -1,26 +1,38 @@
 ---
 title: ""
 toc: false
-listing:
-  contents:
-    - "essays/*.qmd"
-    - "research/*.qmd"
-    - "creative/*.qmd"
-    - "!**/index.qmd"
-    - "!essays/directed-studies.qmd"
-  sort: "date desc"
-  type: default
-  max-items: 5
-  fields: [date, title, description, categories]
-  feed: true
 ---
 
-::: {.home-name}
+::: {.name}
 Camilo Salgar
 :::
 
-::: {.home-lede}
-Applied mathematics and Philosophy at Yale. I am skeptically optimistic about the future artificial intelligence has in store for Latin America and the world. 
+::: {.intro}
+Hi, I'm Camilo, an international student at Yale pursuing a double major in Applied Mathematics and Philosophy. I grew up in Bogotá, Colombia.
 :::
 
-## Recent work
+## Writing
+
+<ul class="works">
+<li><span class="d">October 2026</span><span><a href="https://yale-herald.com/2026/10/04/the-student-is-at-risk/">The Student is at Risk</a><span class="v">Yale Herald</span></span></li>
+<li><span class="d">April 2026</span><span><a href="essays/nietzsche-beyond-morality.pdf">Beyond Morality: Nietzsche's Non-Prescriptive Project</a><span class="v">Directed Studies, Yale</span></span></li>
+<li><span class="d">March 2026</span><span><a href="essays/tolstoy-aesthetic-transcendence.pdf">Aesthetic Transcendence: Tolstoy's Meaning Beyond Particularity</a><span class="v">Directed Studies, Yale</span></span></li>
+<li><span class="d">February 2026</span><span><a href="essays/hegel-master-slave-dialectic.pdf">Questioning Hegel: Master-Slave Dialectic in Motion</a><span class="v">Directed Studies, Yale</span></span></li>
+<li><span class="d">November 2025</span><span><a href="essays/tacitus-theatricality-imperial-rome.pdf">Theatricality of Imperial Rome: Counterproductive Persecution of Free Speech</a><span class="v">Directed Studies, Yale</span></span></li>
+<li><span class="d">October 2025</span><span><a href="https://yaledailynews.com/articles/salgar-sit-in-silence">Sit in Silence</a><span class="v"><a href="https://yaledailynews.com/author/camilo-salgar">Yale Daily News</a></span></span></li>
+<li><span class="d">June 2025</span><span><a href="https://camilosalgar.substack.com/p/discurso-de-graduacion">Discurso de graduación</a><span class="v">Substack</span></span></li>
+</ul>
+
+## Projects
+
+<ul class="works">
+<li><span class="d">August 2026</span><span><a href="research/chess-complexity-engine-evaluation.pdf">Asymmetric Complexity and the Limits of Engine Evaluation</a><span class="v">Exeter College Summer Programme, Oxford</span></span></li>
+<li><span class="d">August 2026</span><span><a href="research/ai-human-like-conceptual-engineering.pdf">AI Should Not Be Called Human-Like: An Approach From Conceptual Engineering</a><span class="v">Exeter College Summer Programme, Oxford</span></span></li>
+<li><span class="d">March 2025</span><span><a href="https://youtu.be/zqpsKwdqrn0">Making Decisions Beyond the Chess Board</a><span class="v">TEDxColegio Nueva Granada</span></span></li>
+</ul>
+
+<div class="contact">
+<a href="mailto:camilo.salgar@yale.edu">camilo.salgar@yale.edu</a>
+<a href="https://www.linkedin.com/in/camilo-salgar/">LinkedIn</a>
+<a href="https://camilosalgar.substack.com">Substack</a>
+</div>

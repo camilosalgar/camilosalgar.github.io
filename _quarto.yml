@@ -1,40 +1,21 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - index.qmd
+  resources:
+    - "essays/*.pdf"
+    - "research/*.pdf"
 
 website:
   title: "Camilo Salgar"
   site-url: "https://camilosalgar.github.io"
-  description: "Essays, research, and creative work by Camilo Salgar."
+  description: "Writing and projects by Camilo Salgar."
   favicon: images/favicon.svg
-  navbar:
-    left:
-      - text: "Academic Essays"
-        href: essays/index.qmd
-      - text: "Research Projects"
-        href: research/index.qmd
-      - text: "Creative Work"
-        href: creative/index.qmd
-      - text: "About Me"
-        href: about.qmd
-    right:
-      - icon: linkedin
-        href: https://www.linkedin.com/in/camilo-salgar/
-        aria-label: LinkedIn
-      - icon: github
-        href: https://github.com/camilosalgar
-        aria-label: GitHub
-  page-footer:
-    left: "© 2026 Camilo Salgar"
-    right: "Built with Quarto"
-
-date-format: "MMMM YYYY"
 
 format:
   html:
-    theme: [cosmo, styles.scss]
-    toc: true
-    toc-location: right
-    smooth-scroll: true
+    theme: [default, styles.scss]
+    toc: false
+    anchor-sections: false
     html-math-method: katex
-    code-copy: true

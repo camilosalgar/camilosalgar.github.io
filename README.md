@@ -1,19 +1,22 @@
 # camilosalgar.github.io
 
-Personal website built with Quarto. Every commit to `main` rebuilds and publishes the site automatically (see the Actions tab).
+One-page site built with Quarto. Every commit to `main` rebuilds and publishes it automatically (see the Actions tab).
 
 ## Add a new piece
 
-1. Open the folder: `essays/`, `research/`, or `creative/`.
-2. Click **Add file → Create new file**. Name it something like `my-new-essay.qmd` (lowercase, hyphens, no spaces).
-3. Copy the contents of `_template.qmd` from that folder, fill in the title/description/date/categories, and write below the `---` line.
-4. Click **Commit changes**. The site updates in about 2 minutes.
+Open `index.qmd`, click the pencil icon, and copy one of the existing lines inside the Writing or Projects list. Each line has three parts: the date, the link, and where it was published.
 
-Images and PDFs: upload them into the same folder and link them with `![Caption](image.png)` or `[PDF](file.pdf)`.
+```html
+<li><span class="d">DATE</span><span><a href="LINK">TITLE</a><span class="v">WHERE PUBLISHED</span></span></li>
+```
 
-## Edit pages
+- `LINK` is a web address for published work, or a file path like `essays/my-paper.pdf` for a PDF.
+- Keep the list in order, newest at the top.
 
-- Bio: `about.qmd`
-- Home page intro: `index.qmd`
-- Site name, menu, footer: `_quarto.yml`
-- Colors and fonts: `styles.scss`
+To add a PDF: open the `essays` or `research` folder, click **Add file → Upload files**, drag it in, and commit. Then add its line to `index.qmd`.
+
+## Edit the rest
+
+- Name, intro, lists, contacts: `index.qmd`
+- Fonts, colors, spacing: `styles.scss`
+- Site title and favicon: `_quarto.yml`
